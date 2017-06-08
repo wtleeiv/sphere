@@ -1,0 +1,3 @@
+* Sphere Notes
+** remember/reminders
+*** make pointer-lock controls w/ movement
